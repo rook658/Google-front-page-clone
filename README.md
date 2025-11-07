@@ -14,7 +14,8 @@ I created this project to practice front-end design, layout, and responsive styl
 - Tailwind CSS
 
 ## Live Demo
-You can view the live demo here:  
+You can view the live demo here:
+https://rook658.github.io/Google-front-page-clone/
 
 ## License
 This project is licensed under the  
