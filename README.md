@@ -16,7 +16,7 @@ I created this project to practice front-end design, layout, and responsive styl
 ## Live Demo
 You can view the live demo here:  
 
-## 📜 License
+## License
 This project is licensed under the  
 [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
